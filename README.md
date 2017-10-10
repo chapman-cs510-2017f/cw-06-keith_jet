@@ -1,6 +1,6 @@
 # CS510 CW 6
 
-**Author(s):** **CHANGEME**
+**Author(s):**Jet Li, Keith**
 
 [![Build Status](https://travis-ci.org/chapman-cs510-2017f/cw-06-keith_jet.svg?branch=master)](https://travis-ci.org/chapman-cs510-2017f/cw-06-keith_jet)
 
@@ -21,7 +21,10 @@
 
 Analyze in this section what you found useful about this assignment in your own words. Include any lingering questions or comments that you may have.
 
-**CHANGEME**
+1. ipython3 is a very good tool to test idea and syntax.
+2. Array is more efficient than list. 
+3. try not using return inside the method of a class, instead set to return value to the properity. It seems more organized to me.
+4. lambda is nice.
 
 ## Honor Pledge
 
@@ -32,4 +35,4 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-**YOURNAME**
+Jianhua Li
